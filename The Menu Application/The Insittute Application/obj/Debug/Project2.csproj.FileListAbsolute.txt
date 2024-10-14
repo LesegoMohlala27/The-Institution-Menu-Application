@@ -1,0 +1,14 @@
+C:\Users\hanya\source\repos\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\hanya\source\repos\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\hanya\source\repos\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\hanya\source\repos\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\hanya\source\repos\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\hanya\source\repos\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\hanya\source\repos\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\Lesego Mohlala\Downloads\PRG261-Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\Lesego Mohlala\Downloads\PRG261-Project2\Project2\bin\Debug\Project2.exe
+C:\Users\Lesego Mohlala\Downloads\PRG261-Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\Lesego Mohlala\Downloads\PRG261-Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\Lesego Mohlala\Downloads\PRG261-Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\Lesego Mohlala\Downloads\PRG261-Project2\Project2\obj\Debug\Project2.exe
+C:\Users\Lesego Mohlala\Downloads\PRG261-Project2\Project2\obj\Debug\Project2.pdb
